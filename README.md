@@ -29,4 +29,4 @@ Therefore, Louise should launch the play in May or June and should avoid launchi
 The conclution we can draw from the Outcomes based on Goals is that Louise should have the goal of the play to be less than $5000 to have more chance of success. Althouth upto $20000 he can still have around 50% chance of success.
 Limitation of this dataset is that it is not confined to one country, secondly some of the plays are live and we still have to determine their status.
 We also need to consider if ther are any outliers in data and dealing with them
-I would suggests we take out standard diviation of the data so that we can understand how scattered is data and which side is it skewed.
+I would suggests we take out standard diviation of the data so that we can understand how scattered is data and which side is it skewed. and if there are any outliers we should either have them removed or inform Louise about it.
